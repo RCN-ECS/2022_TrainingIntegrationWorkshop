@@ -1,4 +1,7 @@
 
+# Information on travel
+
+[Travel information](travel.md)
 
 # Join the conversation on Slack or Twitter
 We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/enQtNTI4MjcwMjg5NTM5LWFiMGM0OTczMzllODg3NGQxYzBlNTA4NTE2OWI5ZWEwNjU3MTQ2ZTk3OWYxMjA5NzQxMmQwNTVmZDE1ZGE0NDc).
