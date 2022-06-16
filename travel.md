@@ -1,6 +1,6 @@
 ## Planning your trip
 
-* [Fill out this Google Form to inform us of your plans to attend by June 20](https://docs.google.com/forms/d/e/1FAIpQLSc94p1QnjrFbVjWTch454LbhIfDDplVDi7bE8UC8Emzep2WuQ/viewform) Because getting to Shoals can be logitically complicated, informing us of your travel plans can be helpful if any delays arise.
+* [Fill out this Google Form to inform us of your plans to attend by June 20](https://docs.google.com/forms/d/1XQJeJLqJXu6Fa5ZNSg0f4QL1aLSLsYpZJ6ul2ck7-8E/edit) Because getting to Shoals can be logitically complicated, informing us of your travel plans can be helpful if any delays arise.
 
 ### Getting reimbursed
 
