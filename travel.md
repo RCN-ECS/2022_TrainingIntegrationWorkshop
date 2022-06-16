@@ -6,6 +6,10 @@
 
 Northeastern University is managing the RCN and **does not process per diem reimbursements.** Please save all your travel receipts (food, taxi, etc.) for reimbursement. We will cover reimbursement paperwork during the workshop.
 
+### Forms due Aug 1
+
+* All participants need to fill out SML's [visitor forms and waivers](https://learnforlife.unh.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=152537322). If you are traveling with children or caregivers, a form needs to be filled out for each person in your group. _Please fill the waivers out by August 1_
+
 ### Life on the island
 
 The facility is a field station and the important things to know are that the facilities are not designed for accessibility, there is not a great deal of privacy, and the conditions can occasionally be uncomfortable; especially in poor weather.  August is generally an amazing time for Appledore weather, but there are always exceptions.  They have a strict no-pet policy to protect the wildlife and ecosystem of the island.  They are very conscientious about allergies and dietary restrictions.  Generally, if a person can eat in a restaurant, they can be accommodated in our dining facility.
@@ -33,7 +37,7 @@ See also the list "what to bring" in the [Shoals Overnight Trip Form for adults]
  
 **1:15 Shuttle from Portsmouth Transportation Center to the dock**
 
-We will offer one shuttle from the PTC (Portsmouth Transportation Center - if you are driving park here for free, if you are taking the bus from Boston this is where you will be dropped off), arrive with luggage at 1:15pm to PTC, shuttle leave by 1:30pm.
+We will offer shuttles from the PTC (Portsmouth Transportation Center - if you are driving park here for free, if you are taking the bus from Boston this is where you will be dropped off) starting around 1:15 or 1:30pm. 
 If guests arrive very early, they can find own means to Portsmouth, enjoy the town, and plan to arrive to dock for check in at 2:15pm. 
 
 **Dock shed for luggage storage**
@@ -47,13 +51,6 @@ Portsmouth dock - 315 Market Street, Portsmouth, NH 03801
 **2:45 Prompt departure to Shoals**
 
 Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact __TBD__
-
-  
-### Forms due a week before your travel
-
-* [Shoals Overnight Trip Form for adults](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/VisitorForms/ada_sml2016_overnighter_forms_adult.pdf) Please fill this out and send to shoals.lab@unh.edu no later than August 1.
-
-* [Shoals Overnight Trip Form for minors](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/VisitorForms/ada_sml2016_minors_overnighter_forms.pdf) If traveling with a minor(s), please fill this out and send no later than August 1 to shoals.lab@unh.edu or mail/fax to or mail/fax to: Shoals Marine Laboratory, Morse Hall Suite 113, 8 College Road, Durham, NH 03824, Fax: 603-862-3151.
 
 ### Information on leaving Shoals August 19th
  
