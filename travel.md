@@ -13,9 +13,9 @@ All reimbursements will be due 1 week after the workshop.
 #### Preparing your reimbursement
 You will submit three files in one email for your reimbursement. *Please be sure to use the standardized file name* 
 
-1. **W9_LastName_FirstName** (Make sure to sign the W9 and check that the address is where the check will be sent) 
-2. **Voucher_LastName_FirstName**. Excel form voucher reimbursement (do not convert this to pdf, submit it as an excel file. You can type your signature or insert a photo for a signature)
-3. **Receipts_LastName_FirstName** a combined pdf with all receipts. Each charge has to have its own receipt and food receipts must be itemized. There is no reimbursements for alcohol or sales tax, so please remove the tax and alcohol from the amount you are requesting. Please highlight the sales tax and other non-reimburseable expenses on your receipts and subtract them from the totals in the Excel form. 
+1. **W9_LastName_FirstName.pdf** (Make sure to sign the W9 and check that the address is where the check will be sent) 
+2. **Voucher_LastName_FirstName.xls**. Excel form voucher reimbursement (do not convert this to pdf, submit it as an excel file. You can type your signature or insert a photo for a signature)
+3. **Receipts_LastName_FirstName.pdf** a combined pdf with all receipts. Each charge has to have its own receipt and food receipts must be itemized. There is no reimbursements for alcohol or sales tax, so please remove the tax and alcohol from the amount you are requesting. Please highlight the sales tax and other non-reimburseable expenses on your receipts and subtract them from the totals in the Excel form. 
 
 #### Submitting your reimbursement
 Send the three files in a single email to Thais Bittar with the *exact subject line "RCN Workshop 2022"*, which will automatically route your email for rapid processing.
