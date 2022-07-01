@@ -8,7 +8,9 @@ We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com)
 
 Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS2022
 
-# Schedule
+
+# Tentative Schedule
+'* indicates session will be broadcast virtually
 
 ## Tuesday August 16
 * 13:15 Guests arrive to Portsmouth Transportation Center 
@@ -22,20 +24,35 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
 * 18:00 - 19:00 Dinner 
 * 19:00 - 20:00 Orientation and walking tour (2 groups, upper half and lower half of island)
 * 20:00 Lightning talks and social hour on Commons Deck (BYO alcoholic beverages)
-
+  * Introduction to the RCN
+  * Lightning talks
 
 ## Wednesday August 17
- * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
- * 07:30 Breakfast
- * 08:30 - 12:30 Working group presentations 
- * 12:30 Lunch
- * 13:30 - 14:30 Swim call - Jump off the Dock
- * 14:30 - 15:30 Panel discussion 
-   * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations
- * 15:30 Coffee break
- * 15:45 - 16:45 Keynote 
- * 16:45 - 17:45 Panel discussion 
-   * Perspectives on meta-analyses 
+* 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
+* 07:30 Breakfast
+* 08:30 - 10:25 Working Group Presentations* 
+  * 8:30 Welcome, more ice breakers
+  * 8:45 Working group: Molly Albecker - Selection Across the Life Cycle
+  * 9:10 Working group: Mark Bitter - Fluctuating Selection
+  * 9:35 Working group: Jennifer Hoey - Do spatial and genomic estimates of connectivity agree?
+  * 10:00 Working group: Matthew Sasaki - Surf and Turf
+* 10:25 coffee break
+* 10:45 - 11:45 Panel discussion
+  * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations
+    * Moderator: Morgan Kelly  
+    * Panelists: Dan Bolnick, Alli Cramer, James Pringle, Stacy Krueger-Hadfield 
+* 12:00 Lunch
+* 13:00 - 14:00 Swim call - Jump off the Dock
+* 14:00 - 15:15 Working Group Presentations*
+  * 14:00 Working group: Rachel Toczydlowski - Predicting Diversity and Divergence in the Sea (remote presentation)
+  * 14:25 Working group: René Clark - Temporal Genomics
+  * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
+* 15:15 Coffee break
+* 15:45 - 16:45 DEI talk and discussion
+* 16:45 - 17:45 Panel discussion 
+  * Perspectives on meta-analyses 
+    * Moderator: Erik Sotka
+    * Panelists: Molly Albecker, Katie Lotterhos, Matthew Sasaki
  * 18:00 Dinner
  * 19:00 Evening Boat ride (one half of the group, other half tomorrow)
  * 20:00 Small discussion on Commons Deck (BYO alcoholic beverages)
@@ -46,18 +63,26 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
  * 07:30 Breakfast
  * 08:30 - 9:30 Panel discussion 
    * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
- * 09:30 - 10:30 Panel discussion 
-   * How to fund (interdisciplinary) collaborations
- * 10:30 coffee break
- * 11:00 - 12:00 Working group presentations
- * 11:40 Guided discussion - next steps for the RCN 
- * 12:30 Lunch
- * 13:30 - 14:30 Swim call - Jump off the Dock
- * 14:30 - 15:30 Panel discussion 
+     * Moderator: Jon Puritz
+     * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
+ * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, Dan Thornhill (NSF) 
+ * 10:00 coffee break
+ * 10:30 - 12:00 Working group presentations
+    * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
+    * 10:55 Working group: Savannah LaBua - Seascape Genomics of North Pacific Forage Fishes (remote presentation)
+    * 11:20 How the RCN came together - Katie Lotterhos
+    * 11:30 Next steps for the RCN (Guided breakout session) (led by Katie Lotterhos) 
+ * 12:00 Lunch
+ * 13:00 - 14:00 Swim call - Jump off the Dock
+ * 14:15 - 15:15 Panel discussion 
    * Synthesizing across data sources (focused on genomics data)
- * 15:30 coffee break
- * 16:00 - 16:40 Working group presentations
- * 16:40 - 17:30 Next steps for the RCN, breakout groups followed by group discussion 
+      * Moderator Andrew Whitehead 
+      * Panelists: Sam Bogan, Nina Therkildsen, John Wares  
+ * 15:15 coffee break
+ * 15:45 - 16:35 Working group presentations
+   * 15:45 Working group: Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students 
+   * 16:10 Working group: Amanda Xuereb - Modeling evolution in marine systems 
+* 16:35 - 17:30 Next steps for the RCN
  * 18:00 Lobster Dinner
  * 19:00 Evening Boat ride (other half of the group)
  * 20:00 Social Hour on Commons Deck (BYO alcoholic beverages)
