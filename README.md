@@ -51,7 +51,7 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
   * 14:25 Working group: René Clark - Temporal Genomics
   * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
 * 15:15 Coffee break
-* 15:45 - 16:45 How the RCN came together and next steps for the RCN (Guided breakout session)- Katie Lotterhos 
+* 15:45 - 16:45 How the RCN came together and next steps for the RCN (Guided breakout session)- Katie Lotterhos [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
 * 16:45 - 17:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
