@@ -33,26 +33,26 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
 ## Wednesday August 17
 * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
 * 07:30 Breakfast
-* 08:30 - 10:25 Working Group Presentations* 
+* 08:30 - 10:25 Working Group Presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * 8:30 Welcome, more ice breakers
   * 8:45 Working group: Molly Albecker - Selection Across the Life Cycle
   * 9:10 Working group: Mark Bitter - Fluctuating Selection
   * 9:35 Working group: Jennifer Hoey - Do spatial and genomic estimates of connectivity agree?
   * 10:00 Working group: Matthew Sasaki - Surf and Turf
 * 10:25 coffee break
-* 10:45 - 11:45 Panel discussion
+* 10:45 - 11:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations
     * Moderator: Morgan Kelly  
     * Panelists: Dan Bolnick, Alli Cramer, James Pringle, Stacy Krueger-Hadfield 
 * 12:00 Lunch
 * 13:00 - 14:00 Swim call - Jump off the Dock
-* 14:00 - 15:15 Working Group Presentations*
+* 14:00 - 15:15 Working Group Presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * 14:00 Working group: Rachel Toczydlowski - Predicting Diversity and Divergence in the Sea (remote presentation)
   * 14:25 Working group: René Clark - Temporal Genomics
   * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
 * 15:15 Coffee break
 * 15:45 - 16:45 How the RCN came together and next steps for the RCN (Guided breakout session)- Katie Lotterhos 
-* 16:45 - 17:45 Panel discussion 
+* 16:45 - 17:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
     * Panelists: Molly Albecker, Katie Lotterhos, Matthew Sasaki
@@ -64,28 +64,28 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
 ## Thursday Aug 18 
  * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
  * 07:30 Breakfast
- * 08:30 - 9:30 Panel discussion 
+ * 08:30 - 9:30 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
    * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
      * Moderator: Jon Puritz
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
  * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer
  * 10:00 coffee break
- * 10:30 - 12:00 Working group presentations
+ * 10:30 - 12:00 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
     * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
     * 10:55 Working group: Savannah LaBua - Seascape Genomics of North Pacific Forage Fishes (remote presentation)
     * 11:20 Evolving Seas Diversity Commitee Presentation and Discussion - Katie Lotterhos
     * 11:30 DEI Discussion
  * 12:00 Lunch
  * 13:00 - 14:00 Swim call - Jump off the Dock
- * 14:15 - 15:15 Panel discussion 
+ * 14:15 - 15:15 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
    * Synthesizing across data sources (focused on genomics data)
       * Moderator Andrew Whitehead 
       * Panelists: Sam Bogan, Nina Therkildsen, John Wares  
  * 15:15 coffee break
- * 15:45 - 16:35 Working group presentations
+ * 15:45 - 16:35 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
    * 15:45 Working group: Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students 
    * 16:10 Working group: Amanda Xuereb - Modeling evolution in marine systems 
-* 16:35 - 18:00 Next steps for the RCN
+* 16:35 - 18:00 Next steps for the RCN [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
  * Instructions for travel reimbursement
  * Group discussion on next steps 
 * 18:00 Lobster Dinner
