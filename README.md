@@ -48,7 +48,7 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
   * 14:25 Working group: René Clark - Temporal Genomics
   * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
 * 15:15 Coffee break
-* 15:45 - 16:45 DEI talk and discussion
+* 15:45 - 16:45 How the RCN came together and next steps for the RCN (Guided breakout session)- Katie Lotterhos 
 * 16:45 - 17:45 Panel discussion 
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
@@ -65,13 +65,13 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
    * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
      * Moderator: Jon Puritz
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
- * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, Dan Thornhill (NSF) 
+ * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer
  * 10:00 coffee break
  * 10:30 - 12:00 Working group presentations
     * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
     * 10:55 Working group: Savannah LaBua - Seascape Genomics of North Pacific Forage Fishes (remote presentation)
-    * 11:20 How the RCN came together - Katie Lotterhos
-    * 11:30 Next steps for the RCN (Guided breakout session) (led by Katie Lotterhos) 
+    * 11:20 Evolving Seas Diversity Commitee Presentation and Discussion - Katie Lotterhos
+    * 11:30 DEI Discussion
  * 12:00 Lunch
  * 13:00 - 14:00 Swim call - Jump off the Dock
  * 14:15 - 15:15 Panel discussion 
@@ -82,10 +82,12 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
  * 15:45 - 16:35 Working group presentations
    * 15:45 Working group: Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students 
    * 16:10 Working group: Amanda Xuereb - Modeling evolution in marine systems 
-* 16:35 - 17:30 Next steps for the RCN
- * 18:00 Lobster Dinner
- * 19:00 Evening Boat ride (other half of the group)
- * 20:00 Social Hour on Commons Deck (BYO alcoholic beverages)
+* 16:35 - 18:00 Next steps for the RCN
+ * Instructions for travel reimbursement
+ * Group discussion on next steps 
+* 18:00 Lobster Dinner
+* 19:00 Evening Boat ride (other half of the group)
+* 20:00 Social Hour on Commons Deck (BYO alcoholic beverages)
 
 ## Friday August 19 
  * 07:30 Breakfast
