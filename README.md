@@ -1,5 +1,5 @@
 
-# Information on travel
+# Information on travel and reimbursement
 
 [Travel information](travel.md)
 
