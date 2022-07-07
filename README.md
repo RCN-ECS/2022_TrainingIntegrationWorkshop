@@ -3,7 +3,7 @@
 
 * [Information on travel and reimbursement](travel.md)
 * [List of In Person and Virtual Participants](https://docs.google.com/spreadsheets/d/11WVBBvD2i4EIZDnAXg52xvzt-RVPB9ELCYj87fhajng/edit#gid=0)
-* [Code of Conduct](code_conduct.md)
+* [Code of Conduct](CodeOfConduct.md)
 
 # Join the conversation on Slack or Twitter
 We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/enQtNTI4MjcwMjg5NTM5LWFiMGM0OTczMzllODg3NGQxYzBlNTA4NTE2OWI5ZWEwNjU3MTQ2ZTk3OWYxMjA5NzQxMmQwNTVmZDE1ZGE0NDc).
