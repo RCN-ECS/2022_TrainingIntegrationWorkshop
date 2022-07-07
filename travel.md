@@ -1,7 +1,7 @@
 ## Planning your trip
 
 * [Fill out this Google Form to inform us of your plans to attend by June 20](https://docs.google.com/forms/d/1XQJeJLqJXu6Fa5ZNSg0f4QL1aLSLsYpZJ6ul2ck7-8E/edit) Because getting to Shoals can be logitically complicated, informing us of your travel plans can be helpful if any delays arise.
-* Please buy travel insurance if relevant, as we cannot use NSF funds to reimburse you for travel if you do not for some reason make it to the workshop.
+* Please buy travel insurance if relevant, as we cannot use NSF funds to reimburse you for travel if you do not for some reason make it to the workshop. **We cannot use NSF funds to reimburse travel insurance**
 
 ### Getting reimbursed
 
