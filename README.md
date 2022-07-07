@@ -14,7 +14,7 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
 '* indicates session will be broadcast virtually
 
 ## Monday August 15
-Some partipants will arrive in Boston on Monday and spend the night at the Boston Logan Hilton. A bus will depart from the hotel at 10am and drop off at Portsmouth Dock.
+Some partipants will arrive in Boston on Monday and spend the night at the Boston Logan Hilton. A bus will depart from the hotel at 10am and drop off at Portsmouth Dock. For more information see [Information on travel and reimbursement](travel.md)
 
 ## Tuesday August 16
 * 13:15 Guests arrive to Portsmouth Transportation Center 
