@@ -5,6 +5,7 @@
 * [List of In Person and Virtual Participants](https://docs.google.com/spreadsheets/d/11WVBBvD2i4EIZDnAXg52xvzt-RVPB9ELCYj87fhajng/edit#gid=0)
 * [Code of Conduct](CodeOfConduct.md)
 * [Instructions for speakers, moderators, and panelists](https://github.com/RCN-ECS/2022_TrainingIntegrationWorkshop/blob/main/InstructionsForSpeakers.md)
+* [Covid and masking policies](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/Other_Misc/sml_2022_covid_safety_plan_6.2.22_updated.pdf)
 
 # Join the conversation on Slack or Twitter
 We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/enQtNTI4MjcwMjg5NTM5LWFiMGM0OTczMzllODg3NGQxYzBlNTA4NTE2OWI5ZWEwNjU3MTQ2ZTk3OWYxMjA5NzQxMmQwNTVmZDE1ZGE0NDc).
