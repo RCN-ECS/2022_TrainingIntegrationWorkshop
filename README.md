@@ -69,7 +69,8 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
    * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
      * Moderator: Jon Puritz
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
- * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer
+ * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer Joaquín Martínez Martínez, Ph.D.
+Program Director, Division of Ocean Sciences
  * 10:00 coffee break
  * 10:30 - 11:20 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
     * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
@@ -79,7 +80,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
  * 13:00 - 14:00 Swim call - Jump off the Dock
  * 14:15 - 15:15 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
    * Synthesizing across data sources (focused on genomics data)
-      * Moderator Andrew Whitehead 
+      * Moderator Joanna Kelley 
       * Panelists: Sam Bogan, Nina Therkildsen, John Wares  
  * 15:15 coffee break
  * 15:45 - 16:35 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
