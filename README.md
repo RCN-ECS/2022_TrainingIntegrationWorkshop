@@ -34,7 +34,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
 * 19:00 - 20:00 Orientation and walking tour (2 groups, upper half and lower half of island)
 * 20:00 Lightning talks and social hour on Commons Deck (BYO alcoholic beverages)
   * Introduction to the RCN
-  * Lightning talks
+  * [Lightning talks](https://docs.google.com/presentation/d/1qivjyuewpyaz_2GDozTUtpb4RC3eWqBKMEzlhQtsSJI/edit#slide=id.p)
 
 ## Wednesday August 17
 * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
