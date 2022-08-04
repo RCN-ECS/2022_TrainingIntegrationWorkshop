@@ -57,7 +57,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
   * 14:25 Working group: René Clark - Temporal Genomics
   * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
 * 15:15 Coffee break
-* 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+* 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09) [Presentation link](https://docs.google.com/presentation/d/1wRZfKAbzb045Yb3zRmiOIHOGvVEGsWuVj6ng5-vxaXM/edit#slide=id.g14220e1517e_0_0)
 * 16:45 - 17:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
