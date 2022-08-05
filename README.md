@@ -32,8 +32,8 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
 * 17:15 - 18:00 Settle into residential spaces 
 * 18:00 - 19:00 Dinner 
 * 19:00 - 20:00 Orientation and walking tour (2 groups, upper half and lower half of island)
-* 20:00 Lightning talks and social hour on Commons Deck (BYO alcoholic beverages)
-  * Introduction to the RCN
+* 20:00 Lightning talks and social hour on Commons Deck (BYO alcoholic beverages) [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+  * [Introduction to the RCN](https://docs.google.com/presentation/d/1wRZfKAbzb045Yb3zRmiOIHOGvVEGsWuVj6ng5-vxaXM/edit#slide=id.g14220e1517e_0_0)
   * [Lightning talks](https://docs.google.com/presentation/d/1qivjyuewpyaz_2GDozTUtpb4RC3eWqBKMEzlhQtsSJI/edit#slide=id.p)
 
 ## Wednesday August 17
