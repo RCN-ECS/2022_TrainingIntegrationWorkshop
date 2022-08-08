@@ -1,3 +1,6 @@
+## Zoom recordings
+Many sessions will be recorded. Please let the moderators know if you would like not to be recorded.
+
 ## Instructions for zoom moderators
 
 1. Lead moderator
