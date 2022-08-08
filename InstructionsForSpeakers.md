@@ -4,10 +4,11 @@ Many sessions will be recorded. Please let the moderators know if you would like
 ## Instructions for zoom moderators
 
 1. Lead moderator
-  * Plug in the speakers to your laptop, choose the speakers from the zoom menu
-  * Attach the microphone sensor to your laptop, choose the microphone from the zoom menu
+  * Plug in the speakers to your laptop, for Speaker choose the "external headphones" from the zoom menu
+  * Attach the microphone sensor to your laptop, for microphone choose "USB audio device" from the zoom menu
     * There are 2 microphones, one for the speaker and one for questions
     * People on zoom will only be able to hear what is said into the microphones
+    * People who are speaking into the microphones will have to project their voice for the people in the room - we couldn't figure out how to broadcast the sound from the mics without creating feedback for people online
 
 2. Other zoom moderators
   * Make sure that your video is on, the volume on your computer is muted, and your microphone is off. 
@@ -24,7 +25,7 @@ Many sessions will be recorded. Please let the moderators know if you would like
 Make sure that you state their name before handing them the microphone, so that remote participants know who will be speaking. 
 (Maybe carry a laptop with the zoom session open and point it at the person speaking?)
 
-## Instructions for speakers
+## Instructions for in-person speakers
 
 You will present on your own laptop.
 
