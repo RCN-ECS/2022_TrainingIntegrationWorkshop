@@ -67,8 +67,9 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
     * Panelists: Molly Albecker, Katie Lotterhos, Matthew Sasaki
  * 18:00 Dinner
  * 19:00 Evening Boat ride (one half of the group, other half tomorrow)
- * 20:00 Small discussion on Commons Deck (BYO alcoholic beverages)
-   * How to initiate and develop collaborations 
+ * 20:00 Small discussion on How to initiate and develop collaborations
+   *  In person -  Commons Deck (BYO alcoholic beverages)
+   * Virtual led by Jon Puritz [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
 
 ## Thursday Aug 18 
  * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
@@ -78,7 +79,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
      * Moderator: Jon Puritz
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
  * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer Joaquín Martínez Martínez, Ph.D.
-Program Director, Division of Ocean Sciences
+Program Director, Division of Ocean Sciences [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
  * 10:00 coffee break
  * 10:30 - 11:20 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
     * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
