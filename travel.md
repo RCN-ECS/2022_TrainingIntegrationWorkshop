@@ -18,6 +18,9 @@ You will submit three files in one email for your reimbursement. *Please be sure
 3. **Receipts_LastName_FirstName_RCN-ECS.pdf** a combined pdf with all receipts. Each charge has to have its own receipt and food receipts must be itemized. Tax on lodging and food is reimbursed. 
     * There is no reimbursements for alcohol or sales tax on stuff, so please remove the tax and alcohol from the amount you are requesting. Please highlight the sales tax and other non-reimburseable expenses on your receipts and subtract them before entering the total amount to be reimbursed in the Excel form. 
 
+![image](https://user-images.githubusercontent.com/6870125/184231121-4b2903ba-e17c-4d92-9d96-414dec426bde.png)
+
+
 #### Submitting your reimbursement
 Send the three files in a single email to Thais Bittar with the *exact subject line "RCN Workshop 2022"*, which will automatically route your email for rapid processing.
 
