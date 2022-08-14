@@ -3,7 +3,7 @@
 * [List of In Person and Virtual Participants](https://docs.google.com/spreadsheets/d/11WVBBvD2i4EIZDnAXg52xvzt-RVPB9ELCYj87fhajng/edit#gid=0)
 
 ### Join the conversation on Slack or Twitter
-We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/enQtNTI4MjcwMjg5NTM5LWFiMGM0OTczMzllODg3NGQxYzBlNTA4NTE2OWI5ZWEwNjU3MTQ2ZTk3OWYxMjA5NzQxMmQwNTVmZDE1ZGE0NDc).
+We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com). To join the channel please [visit this site](https://evolvingseas.slack.com/join/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg#/shared-invite/email).
 
 Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS2022
 
