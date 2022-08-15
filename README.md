@@ -60,7 +60,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
 * 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos 
   *  [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09) 
   *  [Presentation link](https://docs.google.com/presentation/d/1wRZfKAbzb045Yb3zRmiOIHOGvVEGsWuVj6ng5-vxaXM/edit#slide=id.g14220e1517e_0_0)
-  *  Link to Group discussion notes
+  *  [Link to Group discussion notes](https://docs.google.com/presentation/d/1JS83T8g2FRYbKihU7Xkgo68MUVozQIccFhhO4baGj3E/edit#slide=id.g1444932eb5d_0_218)
 * 16:45 - 17:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
