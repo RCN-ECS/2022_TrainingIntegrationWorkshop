@@ -13,16 +13,16 @@ All reimbursements will be due 1 week after the workshop.
 #### Preparing your reimbursement
 You will submit three files in one email for your reimbursement. *Please be sure to use the standardized file naming system* 
 
-1. **W9_LastName_FirstName_RCN-ECS.pdf** (Make sure to sign the W9 and check that the address is where the check will be sent) [W9 form template](Voucher_Lastname_Firstname_RCN-ECS.xlsx)
-2. **Voucher_LastName_FirstName_RCN-ECS.xls**. Excel form voucher reimbursement (do not convert this to pdf, submit it as an excel file. You can type your signature or insert a photo for a signature) [Excel form template](W9_Lastname_Firstname_RCN-ECS.pdf)
-3. **Receipts_LastName_FirstName_RCN-ECS.pdf** a combined pdf with all receipts. Each charge has to have its own receipt and food receipts must be itemized. Tax on lodging and food is reimbursed. 
+1. **W9_LastName_FirstName_RCN-ECS.pdf** (Make sure to sign the W9 and check that the address is where the check will be sent) [W9 form template](W9_Lastname_Firstname_RCN-ECS.pdf)
+2. **Voucher_LastName_FirstName_RCN-ECS.xls**. Excel form voucher reimbursement (do not convert this to pdf, submit it as an excel file. You can type your signature or insert a photo for a signature) [Excel form template](Voucher_Lastname_Firstname_RCN-ECS.xlsx)
+3. **Receipts_LastName_FirstName_RCN-ECS.pdf** a combined pdf with all receipts. Each charge has to have its own receipt and all receipts must be itemized. Tax on lodging and food is reimbursed. 
     * There is no reimbursements for alcohol or sales tax on stuff, so please remove the tax and alcohol from the amount you are requesting. Please highlight the sales tax and other non-reimburseable expenses on your receipts and subtract them before entering the total amount to be reimbursed in the Excel form. 
 
-![image](https://user-images.githubusercontent.com/6870125/184231121-4b2903ba-e17c-4d92-9d96-414dec426bde.png)
+<img width="1271" alt="image" src="https://user-images.githubusercontent.com/6870125/184625584-4ab19879-5ce0-4418-9022-1d3f49c8b5f2.png">
 
 
 #### Submitting your reimbursement
-Send the three files in a single email to Thais Bittar with the *exact subject line "RCN Workshop 2022"*, which will automatically route your email for rapid processing.
+Send the three files in a single email to Thais Bittar <t.bittar@northeastern.edu> with the *exact subject line "RCN Workshop 2022"*, which will automatically route your email for rapid processing.
 
 Anticipate reimbursement by a check in the mail roughly 4-6 weeks after we verify that the correct paperwork has been submitted.
 
