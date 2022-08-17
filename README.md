@@ -76,7 +76,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
  * 07:30 Breakfast
  * 08:30 - 9:30 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
    * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
-     * Moderator: Jon Puritz
+     * Moderator: Brendan Reid
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
  * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer Joaquín Martínez Martínez, Ph.D.
 Program Director, Division of Ocean Sciences [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
