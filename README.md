@@ -85,6 +85,7 @@ Program Director, Division of Ocean Sciences [Zoom link](https://northeastern.zo
     * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
     * 10:55 Working group: Savannah LaBua - Seascape Genomics of North Pacific Forage Fishes (remote presentation)
  * 11:20-12:00  RCN history and next steps Discussion #2 - Katie Lotterhos
+   * [Survey link](https://neu.co1.qualtrics.com/jfe/form/SV_9BwQ4kvZfBtdnEi) 
  * 12:00 Lunch
  * 13:00 - 14:00 Swim call - Jump off the Dock
  * 14:15 - 15:15 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
