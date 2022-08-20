@@ -32,36 +32,33 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
 * 17:15 - 18:00 Settle into residential spaces 
 * 18:00 - 19:00 Dinner 
 * 19:00 - 20:00 Orientation and walking tour (2 groups, upper half and lower half of island)
-* 20:00 Lightning talks and social hour on Commons Deck (BYO alcoholic beverages) [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+* 20:00 Lightning talks and social hour on Commons Deck (BYO alcoholic beverages) 
   * [Introduction to the RCN](https://docs.google.com/presentation/d/1wRZfKAbzb045Yb3zRmiOIHOGvVEGsWuVj6ng5-vxaXM/edit#slide=id.g14220e1517e_0_0)
   * [Lightning talks](https://docs.google.com/presentation/d/1qivjyuewpyaz_2GDozTUtpb4RC3eWqBKMEzlhQtsSJI/edit#slide=id.p)
 
 ## Wednesday August 17
 * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
 * 07:30 Breakfast
-* 08:30 - 10:25 Working Group Presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+* 08:30 - 10:25 Working Group Presentations 
   * 8:30 Welcome, more ice breakers
-  * 8:45 Working group: Molly Albecker - Selection Across the Life Cycle
+  * 8:45 Working group: Molly Albecker - Selection Across the Life Cycle [Video link](https://youtu.be/LJVWjXprZII)
   * 9:10 Working group: Mark Bitter - Fluctuating Selection
   * 9:35 Working group: Jennifer Hoey - Do spatial and genomic estimates of connectivity agree?
   * 10:00 Working group: Matthew Sasaki - Surf and Turf
 * 10:25 coffee break
-* 10:45 - 11:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+* 10:45 - 11:45 Panel discussion 
   * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations
     * Moderator: Morgan Kelly  
     * Panelists: Dan Bolnick, Alli Cramer, James Pringle, Stacy Krueger-Hadfield 
 * 12:00 Lunch
 * 13:00 - 14:00 Swim call - Jump off the Dock
-* 14:00 - 15:15 Working Group Presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
-  * 14:00 Working group: Rachel Toczydlowski - Predicting Diversity and Divergence in the Sea (remote presentation)
+* 14:00 - 15:15 Working Group Presentations [Video](https://youtu.be/JZeGof3orrQ)
+  * 14:00 Working group: Rachel Toczydlowski - Predicting Diversity and Divergence in the Sea [Video](https://youtu.be/JZeGof3orrQ) 
   * 14:25 Working group: René Clark - Temporal Genomics
   * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
 * 15:15 Coffee break
 * 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos 
-  *  [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09) 
-  *  [Presentation link](https://docs.google.com/presentation/d/1wRZfKAbzb045Yb3zRmiOIHOGvVEGsWuVj6ng5-vxaXM/edit#slide=id.g14220e1517e_0_0)
-  *  [Link to Group discussion notes](https://docs.google.com/presentation/d/1JS83T8g2FRYbKihU7Xkgo68MUVozQIccFhhO4baGj3E/edit#slide=id.g1444932eb5d_0_218)
-* 16:45 - 17:45 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+* 16:45 - 17:45 Panel discussion
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
     * Panelists: Molly Albecker, Katie Lotterhos, Matthew Sasaki
@@ -79,24 +76,23 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
      * Moderator: Brendan Reid
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
  * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer Joaquín Martínez Martínez, Ph.D.
-Program Director, Division of Ocean Sciences [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+Program Director, Division of Ocean Sciences [Link to slides](https://docs.google.com/presentation/d/16TH6A86UtC3o97aDldEqZBQg09jq0Xej/edit?usp=drive_web&ouid=101963378098496858465&rtpof=true)
  * 10:00 coffee break
- * 10:30 - 11:20 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
-    * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) 
-    * 10:55 Working group: Savannah LaBua - Seascape Genomics of North Pacific Forage Fishes (remote presentation)
+ * 10:30 - 11:20 Working group presentations
+    * 10:30 Working group: Katherine Silliman - MarineOmics (remote presentation) [Video](https://youtu.be/ozXtV4w-YOQ)
+    * 10:55 Working group: Savannah LaBua - Seascape Genomics of North Pacific Forage Fishes (remote presentation) [CANCELED]
  * 11:20-12:00  RCN history and next steps Discussion #2 - Katie Lotterhos
-   * [Survey link](https://neu.co1.qualtrics.com/jfe/form/SV_9BwQ4kvZfBtdnEi) 
  * 12:00 Lunch
  * 13:00 - 14:00 Swim call - Jump off the Dock
- * 14:15 - 15:15 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+ * 14:15 - 15:15 Panel discussion [Audio Link](https://youtu.be/3ozX5_1TFyM)
    * Synthesizing across data sources (focused on genomics data)
       * Moderator Joanna Kelley 
       * Panelists: Sam Bogan, Nina Therkildsen, John Wares  
  * 15:15 coffee break
- * 15:45 - 16:35 Working group presentations [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+ * 15:45 - 16:35 Working group presentations 
    * 15:45 Working group: Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students 
    * 16:10 Working group: Amanda Xuereb - Modeling evolution in marine systems 
-* 16:35 - 18:00   RCN history and next steps Discussion #3 - Katie Lotterhos [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+* 16:35 - 18:00   RCN history and next steps Discussion #3 - Katie Lotterhos
  * Instructions for travel reimbursement
  * Group discussion on next steps 
 * 18:00 Lobster Dinner
