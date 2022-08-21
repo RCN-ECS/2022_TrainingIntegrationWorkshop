@@ -42,22 +42,22 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
 * 08:30 - 10:25 Working Group Presentations 
   * 8:30 Welcome, more ice breakers
   * 8:45 Working group: Molly Albecker - Selection Across the Life Cycle [Video link](https://youtu.be/LJVWjXprZII)
-  * 9:10 Working group: Mark Bitter - Fluctuating Selection
-  * 9:35 Working group: Jennifer Hoey - Do spatial and genomic estimates of connectivity agree?
-  * 10:00 Working group: Matthew Sasaki - Surf and Turf
+  * 9:10 Working group: Mark Bitter - Fluctuating Selection [Video link](https://youtu.be/LJVWjXprZII?t=1482)
+  * 9:35 Working group: Jennifer Hoey - Do spatial and genomic estimates of connectivity agree? [Video link](https://youtu.be/LJVWjXprZII?t=3128)
+  * 10:00 Working group: Matthew Sasaki - Surf and Turf - Comparing patterns of local adaptation across habitats [Video link](https://youtu.be/LJVWjXprZII?t=4775)
 * 10:25 coffee break
 * 10:45 - 11:45 Panel discussion 
-  * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations
+  * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations [Video link](https://youtu.be/LJVWjXprZII?t=6118)
     * Moderator: Morgan Kelly  
     * Panelists: Dan Bolnick, Alli Cramer, James Pringle, Stacy Krueger-Hadfield 
 * 12:00 Lunch
 * 13:00 - 14:00 Swim call - Jump off the Dock
 * 14:00 - 15:15 Working Group Presentations [Video](https://youtu.be/JZeGof3orrQ)
-  * 14:00 Working group: Rachel Toczydlowski - Predicting Diversity and Divergence in the Sea [Video](https://youtu.be/JZeGof3orrQ) 
-  * 14:25 Working group: René Clark - Temporal Genomics
-  * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation
+  * 14:00 Working group: Rachel Toczydlowski - Predicting Diversity and Divergence in the Sea [Video](https://youtu.be/JZeGof3orrQ?t=146)
+  * 14:25 Working group: René Clark - Temporal Genomics [Video](https://youtu.be/JZeGof3orrQ?t=1611)
+  * 14:50 Working group: Katie Lotterhos - Metanalysis of gradient variation [Video link](https://youtu.be/JZeGof3orrQ?t=3340)
 * 15:15 Coffee break
-* 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos 
+* 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos [Video link](https://youtu.be/JZeGof3orrQ?t=5036)
 * 16:45 - 17:45 Panel discussion
   * Perspectives on meta-analyses 
     * Moderator: Erik Sotka
@@ -66,13 +66,12 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
  * 19:00 Evening Boat ride (one half of the group, other half tomorrow)
  * 20:00 Small discussion on How to initiate and develop collaborations
    *  In person -  Commons Deck (BYO alcoholic beverages)
-   * Virtual led by Jon Puritz [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
+   * Virtual led by Jon Puritz 
 
 ## Thursday Aug 18 
  * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
  * 07:30 Breakfast
- * 08:30 - 9:30 Panel discussion [Zoom link](https://northeastern.zoom.us/j/98098873356?pwd=THhZeUlHellVb016MVBOdDR4TjBVZz09)
-   * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
+ * 08:30 - 9:30 Panel discussion Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
      * Moderator: Brendan Reid
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
  * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, NSF program officer Joaquín Martínez Martínez, Ph.D.
@@ -90,8 +89,8 @@ Program Director, Division of Ocean Sciences [Link to slides](https://docs.googl
       * Panelists: Sam Bogan, Nina Therkildsen, John Wares  
  * 15:15 coffee break
  * 15:45 - 16:35 Working group presentations 
-   * 15:45 Working group: Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students 
-   * 16:10 Working group: Amanda Xuereb - Modeling evolution in marine systems 
+   * 15:45 Working group: Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students [Video link](https://youtu.be/3ozX5_1TFyM?t=3988)
+   * 16:10 Working group: Amanda Xuereb - Modeling evolution in marine systems [Video link](https://youtu.be/3ozX5_1TFyM?t=5568)
 * 16:35 - 18:00   RCN history and next steps Discussion #3 - Katie Lotterhos
  * Instructions for travel reimbursement
  * Group discussion on next steps 
