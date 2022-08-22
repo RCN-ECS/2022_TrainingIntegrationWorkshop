@@ -50,6 +50,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
   * Challenges of integration - importance of language and frameworks in interdisciplinary collaborations [Video link](https://youtu.be/LJVWjXprZII?t=6118)
     * Moderator: Morgan Kelly  
     * Panelists: Dan Bolnick, Alli Cramer, James Pringle, Stacy Krueger-Hadfield 
+    * Alli's data sharing agreements 
 * 12:00 Lunch
 * 13:00 - 14:00 Swim call - Jump off the Dock
 * 14:00 - 15:15 Working Group Presentations [Video](https://youtu.be/JZeGof3orrQ)
@@ -59,7 +60,7 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
 * 15:15 Coffee break
 * 15:45 - 16:45 RCN history and next steps Discussion #1 (Guided breakout session)- Katie Lotterhos [Video link](https://youtu.be/JZeGof3orrQ?t=5036)
 * 16:45 - 17:45 Panel discussion
-  * Perspectives on meta-analyses 
+  * Perspectives on meta-analyses [Video link](https://youtu.be/6RN2z2oaokI)
     * Moderator: Erik Sotka
     * Panelists: Molly Albecker, Katie Lotterhos, Matthew Sasaki
  * 18:00 Dinner
