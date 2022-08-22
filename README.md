@@ -51,6 +51,10 @@ Some partipants will arrive in Boston on Monday and spend the night at the Bosto
     * Moderator: Morgan Kelly  
     * Panelists: Dan Bolnick, Alli Cramer, James Pringle, Stacy Krueger-Hadfield 
     * Alli's data sharing agreements 
+      * [Authorship Guidelines](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Authorship_Guidelines.docx?raw=true) This document is shared with collaborators at the beginning of the project and clarifies that authorship requires contributions in more than one category.
+      * [Author Contributions](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Author_Contributions.docx?raw=true) This document is shared toward the end of the project and asks authors to describe their contributions in each category.
+      * [Collaboration Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Collaboration_Agreement.docx?raw=true) This document outlines policy for collaboration and adding new collaborators.
+      * [Data Sharing Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/DataSharingAgreement_notsigned.docx?raw=true) This is an example data sharing agreement between two working groups.
 * 12:00 Lunch
 * 13:00 - 14:00 Swim call - Jump off the Dock
 * 14:00 - 15:15 Working Group Presentations [Video](https://youtu.be/JZeGof3orrQ)
